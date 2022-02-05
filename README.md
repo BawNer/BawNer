@@ -23,7 +23,7 @@
 
 </div>
 
-<h3>Best projects</h3>
+<h3>My pet-projects</h3>
 
 
 <div align="center">
