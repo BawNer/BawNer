@@ -23,16 +23,3 @@
 
 </div>
 
-<h3>pet-projects</h3>
-
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BawNer&repo=avem-server)](https://github.com/BawNer/avem-server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BawNer&repo=car_racing)](https://github.com/BawNer/car_racing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BawNer&repo=Avem)](https://github.com/BawNer/Avem)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BawNer&repo=bawner.github.io)](https://github.com/BawNer/bawner.github.io)  
-
-</div>
-
-
