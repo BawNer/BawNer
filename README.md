@@ -16,7 +16,7 @@ If you have to think about the infrastructure, it's not done yet.
 |---------|-------------|
 | [kahora](https://github.com/BawNer/kahora) | High-performance sharded in-memory cache for Go — with gradual map shrink to prevent unbounded memory growth. Built from a real production problem: 18M entries, 300k+ RPS. |
 | haroku | Graceful shutdown for Go — register once, works everywhere. No boilerplate, no plumbing. *(coming soon)* |
-| kiharo | Adaptive hedged requests — automatically learns your service's response time and adjusts the hedge delay. *(coming soon)* |
+| [kiharo]((https://github.com/BawNer/kiharo)) | Adaptive hedged requests — automatically learns your service's response time and adjusts the hedge delay.|
  
 ---
 
