@@ -1,6 +1,40 @@
-<h1 align="center">
-  Hi there, I'm Alexandr!
-  
-  [![codewars](https://www.codewars.com/users/BawNer/badges/small)](https://www.codewars.com/users/BawNer) 
-  
-</h1> 
+Senior Go Engineer. I build systems that work under pressure — and tools that make other engineers' lives simpler.
+
+---
+ 
+### What I believe in
+ 
+Complex problems deserve boring solutions. Not clever ones.  
+A tool should be so obvious you barely need documentation.  
+If you have to think about the infrastructure, it's not done yet.
+ 
+---
+
+### Open source
+ 
+| Project | What it does |
+|---------|-------------|
+| [kahora](https://github.com/BawNer/kahora) | High-performance sharded in-memory cache for Go — with gradual map shrink to prevent unbounded memory growth. Built from a real production problem: 18M entries, 300k+ RPS. |
+| haroku | Graceful shutdown for Go — register once, works everywhere. No boilerplate, no plumbing. *(coming soon)* |
+| kiharo | Adaptive hedged requests — automatically learns your service's response time and adjusts the hedge delay. *(coming soon)* |
+ 
+---
+
+### Stack
+ 
+```
+Go · PostgreSQL · Redis · Kafka · gRPC · Kubernetes
+Prometheus · Grafana · Docker · Elasticsearch
+```
+ 
+---
+ 
+### What I'm working on
+ 
+Building a small ecosystem of production-grade Go utilities around one idea:  
+**make complex things simple for developers.**
+ 
+---
+
+*Open to Senior/Staff Go roles in EU — open to relocation.*  
+[LinkedIn](https://www.linkedin.com/in/guintas) · [guintasep@gmail.com](mailto:guintasep@gmail.com)
