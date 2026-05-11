@@ -1,14 +1,6 @@
 #### Go Engineer. 
 
 I build systems that work under pressure — and tools that make other engineers' lives simpler.
-
----
- 
-### What I believe in
- 
-Complex problems deserve boring solutions. Not clever ones.  
-A tool should be so obvious you barely need documentation.  
-If you have to think about the infrastructure, it's not done yet.
  
 ---
 
