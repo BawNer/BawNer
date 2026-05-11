@@ -1,4 +1,4 @@
-#### Senior Go Engineer. 
+#### Go Engineer. 
 
 I build systems that work under pressure — and tools that make other engineers' lives simpler.
 
