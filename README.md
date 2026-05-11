@@ -38,5 +38,5 @@ Building a small ecosystem of production-grade Go utilities around one idea:
  
 ---
 
-*Open to Senior/Staff Go roles in EU — open to relocation.*  
+*Open to Backend Go roles in EU — open to relocation.*  
 [LinkedIn](https://www.linkedin.com/in/guintas) · [guintasep@gmail.com](mailto:guintasep@gmail.com)
